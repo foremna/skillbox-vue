@@ -12,7 +12,7 @@
         </h3>
 
         <span class="catalog__price">
-          {{ product.price }}
+          {{ product.price }} &#8381;
         </span>
 
         <ul class="colors colors--black">
